@@ -45,15 +45,15 @@ This circuit addresses that inefficiency by incorporating a light detection mech
 
 # **SHEMATIC CIRCUIT**
 
-![][image1]
+![acircuit.jpeg](acircuit.jpeg)
 
 # **CIRCUIT**
 
-![][image2]
+![Circuit.jpeg](Circuit.jpeg)
 
 # **RESULTS**
 
-\`![][image3]![][image4]
+\`![result](Resulta.jpeg)![result](Result.jpeg)
 
 &nbsp;
 
